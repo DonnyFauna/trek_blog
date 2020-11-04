@@ -1,0 +1,10 @@
+# basic options
+title: Trek Blog
+author: DonnyFauna
+email: your-email@domain.com
+description: A wonderful art writting
+github_username:  DonnyFauna
+
+# Build settings
+markdown: kramdown
+theme: minima
